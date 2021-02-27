@@ -1,0 +1,34 @@
+body {
+  background-color: #C7F0DC;
+  
+   }
+  h1 {
+    font-style: oblique;
+    color: #65C893;
+    font-family: "Monoco", Times, serif;
+  font-style: italic;
+  font-weight:bold;
+  }
+
+  h2 {
+    font-style: italic;
+    color: #65C893;
+  }
+
+span {
+
+  font-weight: bold;
+  color: goldenrod;
+  font-size: 30px;
+}
+
+  .p1 {
+    font-family: "Times New Roman", Times, serif;
+  font-style: italic;
+  font-size: 25px;
+  
+  }
+  li {
+    font-family: "Times New Roman", Times, serif;
+  font-size: 25px;
+  }
